@@ -6,3 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 * Meyrvan Maulana Nur Sasmito, [Linkedin](https://www.linkedin.com/in/meyrvanmns/).
+* Meyrvan Maulana Nur Sasmito, [linkr.ee](https://linktr.ee/myrvaan).
